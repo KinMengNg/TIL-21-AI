@@ -1,0 +1,8 @@
+External Dataset Used
+1. Johannes Buchner's Synthetic Speech Commands Dataset (SSCD)
+(LINK: https://www.kaggle.com/jbuchner/synthetic-speech-commands-dataset)
+
+
+Challenge 2 was trained on a combined dataset of s1_train_released (with randomly augmented files using librosa and numpy manipulation) together with the relevant part of the VeryNoisy dataset of the SSCD.
+
+Challenge 4 was trained on a combined dataset of s1_train_released, s2_train_release, (both with randomly augmented files using librosa and numpy manipulation) together with the relevant part of the VeryNoisy dataset of the SSCD.
